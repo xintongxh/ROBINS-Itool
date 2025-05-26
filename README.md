@@ -10,6 +10,6 @@
 
 - Automatic generation of risk of bias figure will be added later.
 
-- Please cite Huang, X. (2025). doi: 10.17605/osf.io/xs5wq.
+- Please cite Huang, X. (2025, May 26). ROBINS-I-V2 Excel Macro-Enabled automatic tool. https://doi.org/10.17605/OSF.IO/XS5WQ
 
 <img width="749" alt="Snipaste_2025-05-26_21-14-01" src="https://github.com/user-attachments/assets/80cc4fb2-33ab-49c6-a065-f4bfff441a5b" />
