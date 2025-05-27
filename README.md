@@ -1,4 +1,4 @@
-- This is built accroding to ROBINS-I-V2, https://www.riskofbias.info/welcome/robins-i-v2, created for National Drug & Alcohol Research Centre, University of New South Wales, Australia.
+- This is built accroding to ROBINS-I-V2, https://www.riskofbias.info/welcome/robins-i-v2, created at the National Drug & Alcohol Research Centre, University of New South Wales, Australia.
 
 - The risk of bias form is only saved upon clicking the SAVE button on the form.
 
