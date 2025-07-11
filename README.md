@@ -1,15 +1,19 @@
-- This is built accroding to ROBINS-I-V2, https://www.riskofbias.info/welcome/robins-i-v2, created at the National Drug & Alcohol Research Centre, University of New South Wales, Australia.
+Hello, thank you for submitting bugs through pull requests!
 
-- The risk of bias form is only saved upon clicking the SAVE button on the form.
+*What is the ROBINS-I assessment tool?*
 
-- "No" is the unique identification number for each study. It must be entered.
+This automated tool streamlines the bias assessment process by guiding researchers through the Risk Of Bias In Non-randomized Studies - of Interventions (ROBINS-I) framework without requiring manual navigation of complex algorithm trees. The tool automatically presents the next appropriate question and determines the risk of bias based on responses, making bias assessment more intuitive, efficient, and accessible for systematic reviews. 
 
-- To remove a record, delete the row in both "Summary" and "Data" sheets.
+*Why bias assessment matters*
 
-- If you need to write a note or predict direction of bias for each domain, just put them in the box located at the last page. If you really need one at each page, submit a pull request and I will try to make one for you.
+Research studies vary in their design and methodology, which can introduce different types of bias that affect the reliability and validity of their findings. Hence, risk of bias assessment is a crucial step when synthesising and integrating the findings from studies to guide clinical practices. Without proper bias assessment, conclusions drawn from research syntheses may be misleading or overstate the strength of evidence. 
 
-- Automatic generation of risk of bias figure will be added later.
+*The challenge*
 
-- Please cite Huang, X. (2025). ROBINS-I-V2 Excel Macro-Enabled automatic tool. https://doi.org/10.17605/OSF.IO/XS5WQ.
+Non-randomised interventional studies are increasingly important in drug and alcohol research, particularly when randomised trials are impractical or unethical. ROBINS-I evaluates bias across seven key domains including confounding, participant selection, and outcome measurement. The traditional ROBINS-I assessment tool requires navigating multiple, complex decision trees based on assessors’ responses to signalling questions, which can be time-consuming, especially when assessing multiple studies. This automated tool was developed by NDARC Research Assistant, Xintong Huang to streamline that process.
 
-<img width="749" alt="Snipaste_2025-05-26_21-14-01" src="https://github.com/user-attachments/assets/80cc4fb2-33ab-49c6-a065-f4bfff441a5b" />
+Unfortunately, this tool is not compatible with Mac OS.
+
+*Citation*
+
+Huang, XT, Automatic tool for Risk of Bias In Non-randomised Studies of Interventions (ROBINS-I), 2025. National Drug and Alcohol Research Centre (NDARC), University of New South Wales, Australia. Available from: https://www.unsw.edu.au/research/ndarc/resources/risk_of_bias_tool
